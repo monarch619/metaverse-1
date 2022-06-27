@@ -10,7 +10,7 @@ const Hero = () => {
           </h1>
           <p className="mt-6 font-light text-left">
        Experience evolving DeFi in Metaverse.
-The metaverse is the next evolution of interaction, and we are powering the metaverse with Finance.
+The metaverse is the next evolution of interaction, and we are powering the metaverse with Finance on Algorand blockchain.
           </p>
           <div className="flex flex-row items-center mt-6 space-x-6 w-full">
             <button className="bg-clrPrimaryRed text-black border py-2 px-6 rounded-xl">
