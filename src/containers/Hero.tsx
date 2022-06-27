@@ -9,10 +9,8 @@ const Hero = () => {
             <span className="text-clrPrimaryRed">metaverse</span> world.
           </h1>
           <p className="mt-6 font-light text-left">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Architecto, veritatis maxime nesciunt nostrum voluptas doloremque
-            obcaecati odio magni. Vel ex minima omnis voluptas commodi est,
-            ducimus repellendus doloribus numquam iure!
+       Experience evolving DeFi in Metaverse.
+The metaverse is the next evolution of interaction, and we are powering the metaverse with Finance.
           </p>
           <div className="flex flex-row items-center mt-6 space-x-6 w-full">
             <button className="bg-clrPrimaryRed text-black border py-2 px-6 rounded-xl">
